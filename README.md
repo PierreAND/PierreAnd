@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guillaume</h1>
+<!-- <h1 align="center">Hi 👋, I'm Guillaume</h1>
 
 <h3 align="center">Developper Fullstack ReactJS/Ruby on Rails 💻</h3>
 
@@ -37,7 +37,7 @@
 <a href="https://github.com/guillaume-rygn/github-readme-stats"><img alt="Guillaume Reygner's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaume-rygn&langs_count=8&count_private=true&&layout=compact" /></a>
 
 
-
+ -->
 
 
 
