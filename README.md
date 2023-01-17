@@ -2,7 +2,7 @@
 
 <h3 align="center">Junior Developper Fullstack Ruby on Rails / ReactJS </h3>
 
-- 📂 I'm co-developer at **[Prairify](https://prairify.me)**
+- 📂 I'm co-developer at **[Prairify](https://prairify.me) and [TerraGreen](https://terra-green.vercel.app/)**
 
 - 📧 You can contact me  **andrieu.ps@gmail.com**
 
