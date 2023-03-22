@@ -6,7 +6,7 @@
 
 - 📧 You can contact me  **andrieu.ps@gmail.com**
 
-- Here my Portfolio : [Andrieu](https://andrieu-online)
+- 💬 Here my Portfolio : **[Andrieu](https://www.andrieu.online/)**
 
 <h2 align="center">You can find me here : </h2>
 
