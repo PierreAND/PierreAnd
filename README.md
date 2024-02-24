@@ -19,7 +19,7 @@
 
 
 
-<a href="https://app.daily.dev/andrieupierre"><img src="https://api.daily.dev/devcards/v2/WHT0DG7vWRw7S2Jx7fL0x.png?r=5is" width="356" alt="Andrieu Pierre's Dev Card"/></a>
+<a href="https://app.daily.dev/andrieupierre"><img src="'https://postimg.cc/zbcKZGcH' target='_blank'" width="356" alt="Andrieu Pierre's Dev Card"/></a>
 
 
 
