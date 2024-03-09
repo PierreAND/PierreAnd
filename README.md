@@ -14,8 +14,6 @@
 <p align="center">
 <a href="https://twitter.com/TnyGZz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guillaume_rygn" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pierre-andrieu-4103bb176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillaume-reygner" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/PierreAND" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="pa" height="30" width="30" /></a>
-</p
 
 
 <a href="https://app.daily.dev/andrieupierre"><img src="https://api.daily.dev/devcards/v2/WHT0DG7vWRw7S2Jx7fL0x.png?type=wide&r=p36" width="652" alt="Andrieu Pierre's Dev Card"/></a>
