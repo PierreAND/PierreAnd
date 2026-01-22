@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'm Pierre </h1>
 
-<h3 align="center">Junior Developper Fullstack Ruby on Rails / ReactJS </h3>
+<h3 align="center">Junior Developper Fullstack </h3>
 
 - 📧 You can contact me  **andrieu.ps@gmail.com**
 
