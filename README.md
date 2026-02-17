@@ -4,7 +4,7 @@
 
 - 📧 You can contact me  **andrieu.ps@gmail.com**
 
-- 💬 Here my Portfolio : **[Andrieu](https://andrieu-info.surge.sh/about)/**
+- 💬 Here my Portfolio : **[Andrieu](https://andrieu-info.surge.sh/about)**
 
 <h2 align="center">You can find me here : </h2>
 
